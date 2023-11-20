@@ -1,0 +1,90 @@
+body {
+  background-color: rgb(37, 36, 37);
+  background-color: black;
+}
+
+.nav, footer{
+  background-color: rgb(26, 25, 25) !important;
+  color 
+}
+
+.semboyan{
+  padding-top: 80px;
+}
+
+.hero {
+  width: 500px;
+  height: 500px;
+}
+
+h1, h2 {
+  color: white;
+  font-weight: bolder;
+}
+
+p {
+  color: rgb(20, 116, 116);
+}
+
+
+.code-list {
+  padding-top: 40px !important;
+  background-color: transparent !important;
+  margin-bottom: 100px !important;
+}
+
+.code-list img{
+  width: 200px;
+  width: 200px;
+  text-align: center;
+  justify-content: center;
+  justify-items: center;
+  margin-left: 90px !important;
+  padding-left: 50px !important;
+}
+
+.card{
+  background-color: transparent !important;
+  justify-content: center !important;
+  align-content: center;
+  text-align: center;
+  border: 0px solid white;
+  color: aquamarine;
+}
+
+#neuroncanvas{
+  z-index: 4;
+  /* padding-top: -50px; */
+  width: 99vw !important;
+  height: 200vh !important;
+  color: aqua !important; 
+}
+
+canvas{
+  /* width: 70rem !important;
+  /* height: auto !important; */
+  /* color: aqua !important;  */
+  
+}
+
+.contact-us {
+  /* margin-bottom: 150px !important; */
+  margin-top: 100px;
+  padding-top: 150px;
+  padding-bottom: 150px !important;
+}
+
+footer{
+  margin-top: 50px !important;
+  padding-top: 50px !important;
+  height: 300px;
+  /* width: 1890px; */
+  width: 95rem;
+  color: white;
+}
+
+footer p {
+  font-weight: 20;
+  padding-top: 10px;
+  color: whitesmoke;
+}
